@@ -16,3 +16,5 @@ Instruction - Run the code using the following format:
 python searchmain.py [map file] [search method]
 For instance:
 python searchmain.py complexmap.txt BFS
+
+A product of COS30019 unit, Swinburne semester 1, 2024.
